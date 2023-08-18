@@ -1,0 +1,20 @@
+---
+project-repositories:
+- name: "ai-azure"
+  description: "AI - Hello, World"
+  url: "https://github.com/rd-1-2022/ai-azure-openai-helloworld"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "ai"
+  - "azure"  
+  - "web"
+- name: "ai-azure-prompt"
+  description: "AI - Stuff the prompt"
+  url: "https://github.com/rd-1-2022/ai-azure-stuff-prompt"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"  
+  - "ai"
+  - "azure"
+  - "web"
