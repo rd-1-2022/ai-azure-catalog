@@ -1,6 +1,6 @@
 ---
 project-repositories:
-- name: "ai-azure"
+- name: "ai-azure-hello-world"
   description: "AI - Hello, World"
   url: "https://github.com/rd-1-2022/ai-azure-openai-helloworld"
   tags:
@@ -9,7 +9,7 @@ project-repositories:
   - "ai"
   - "azure"  
   - "web"
-- name: "ai-azure-prompt"
+- name: "ai-azure-prompt-templating"
   description: "AI - Prompt Templating"
   url: "https://github.com/rd-1-2022/ai-azure-prompt-template"
   tags:
@@ -27,25 +27,7 @@ project-repositories:
   - "ai"
   - "azure"  
   - "prompt roles"  
-- name: "ai-azure-prompt-roles"
-  description: "AI - Retrieval Augmented Generation"
-  url: "https://github.com/rd-1-2022/ai-azure-retrieval-augmented-generation"
-  tags:
-  - "java-17"
-  - "boot-3.1.x"  
-  - "ai"
-  - "azure"  
-  - "retrieval"  
-- name: "ai-azure-prompt"
-  description: "AI - Stuff the prompt"
-  url: "https://github.com/rd-1-2022/ai-azure-stuff-prompt"
-  tags:
-  - "java-17"
-  - "boot-3.1.x"  
-  - "ai"
-  - "azure"
-  - "prompt stuff"
-- name: "ai-azure-prompt"
+- name: "ai-azure-stuff-prompt"
   description: "AI - Stuff the prompt"
   url: "https://github.com/rd-1-2022/ai-azure-stuff-prompt"
   tags:
@@ -54,3 +36,12 @@ project-repositories:
   - "ai"
   - "azure"
   - "prompt stuff"  
+- name: "ai-azure-prompt-rag"
+  description: "AI - Retrieval Augmented Generation"
+  url: "https://github.com/rd-1-2022/ai-azure-retrieval-augmented-generation"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"  
+  - "ai"
+  - "azure"  
+  - "retrieval"
